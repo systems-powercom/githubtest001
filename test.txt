@@ -1,2 +1,6 @@
 To add new file from local.
 
+Create new branch and edit this file.
+
+Add more info.
+
