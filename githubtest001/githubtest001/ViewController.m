@@ -2,7 +2,7 @@
 //  ViewController.m
 //  githubtest001
 //
-//  Created by Jun Oura on 2014/12/21.
+//  Created by Groby Lington on 2014/12/21.
 //  Copyright (c) 2014年 systems-power. All rights reserved.
 //
 
